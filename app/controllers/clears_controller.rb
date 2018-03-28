@@ -1,0 +1,2 @@
+class ClearsController < ApplicationController
+end

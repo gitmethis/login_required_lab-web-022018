@@ -1,8 +1,12 @@
 Rails.application.routes.draw do
+<<<<<<< HEAD
   resources :sessions
 
 
   root 'application#hello'
+=======
+  resources :clears
+>>>>>>> 4a43e50b41ccec71d8b5d505d84e8125061d950e
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
